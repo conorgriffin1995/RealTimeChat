@@ -1,4 +1,4 @@
-This propject was created using the following link : https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6[creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr]
+This project was created using the following link : https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6[creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr]
 
 ### Simple real time chat with .NET Core, ReactJS and SignalR
 
